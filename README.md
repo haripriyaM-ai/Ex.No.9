@@ -60,18 +60,11 @@ A sunset over mountains and a river.
 ```
 
 ## output
-```md id="video_link"
-[View Basic Output](basic_output.mp4)
+## 🎥 Basic Output
 
-[View Refined Output](refined_output.mp4)
-## Basic Output Observation
+<video src="basic_output.mp4" controls width="600"></video>
 
-The generated video contained a mountain landscape and sunset visuals, but lacked cinematic quality and detailed atmosphere.
-
-## Refined Prompt
-```text
-A cinematic sunset over purple mountains with a calm river reflecting orange and pink skies, soft clouds, warm lighting, realistic landscape, gentle camera movement, peaceful atmosphere, highly detailed
-```
+---
 ## Refined Output Observation
 
 The refined output showed improved lighting, richer colors, realistic textures, smoother composition, and a more cinematic visual appearance.
