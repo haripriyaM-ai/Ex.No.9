@@ -1,6 +1,5 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-### Date:
 ### Name : HARI PRIYA M
 ### Reg. No.: 212224240047
 
